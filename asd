@@ -1768,18 +1768,3 @@ function library:CreateWindow(name, size, hidebutton)
 end
 
 return library
-0 comments on commit 6e84823
-Please sign in to comment.
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Loading complete
